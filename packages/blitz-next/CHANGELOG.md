@@ -1,5 +1,12 @@
 # @blitzjs/next
 
+## 2.0.0-beta.27
+
+### Patch Changes
+
+- blitz@2.0.0-beta.27
+- @blitzjs/rpc@2.0.0-beta.27
+
 ## 2.0.0-beta.26
 
 ### Patch Changes
